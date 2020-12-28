@@ -35,22 +35,6 @@
       "flags": {}
     },
     {
-      "label": "direction",
-      "points": [
-        [
-          116.58536585365832,
-          380.29268292682923
-        ],
-        [
-          181.09756097560992,
-          439.6341463414638
-        ]
-      ],
-      "group_id": null,
-      "shape_type": "rectangle",
-      "flags": {}
-    },
-    {
       "label": "fill",
       "points": [
         [
