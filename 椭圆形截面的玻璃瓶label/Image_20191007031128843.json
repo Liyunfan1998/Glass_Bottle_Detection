@@ -49,6 +49,22 @@
       "group_id": null,
       "shape_type": "line",
       "flags": {}
+    },
+    {
+      "label": "neck",
+      "points": [
+        [
+          988.7488464073823,
+          228.75807514831905
+        ],
+        [
+          1114.5675675675675,
+          356.72972972972974
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
     }
   ],
   "imagePath": "Image_20191007031128843.jpg",
